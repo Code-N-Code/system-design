@@ -27,18 +27,26 @@ By the end, you will be able to:
 
 ## 🚀 Course Roadmap
 
-### **1. Introduction to System Design**
+### **Low Level Design Prerequisites**
+- Event-Driven Architecture
+- Distributed Consensus (Paxos, Raft)
+- Database Internals (Indexes, Isolation)
+- Monitoring & Observability
+- API Design Best Practices (REST, gRPC, GraphQL)
+
+### **Low Level Design (LLD)**
 - What is System Design & why it matters
 - Difference between **LLD vs HLD**
 - Principles of scalability, maintainability, performance
 
-### **2. Low-Level Design (LLD)**
-- SOLID Principles
-- UML Basics
-- Design Patterns (Creational, Structural, Behavioral)
-- Case Studies: Parking Lot, Library System, Ride-Sharing, ATM
+### **High Level Design Prerequisites**
+- Event-Driven Architecture
+- Distributed Consensus (Paxos, Raft)
+- Database Internals (Indexes, Isolation)
+- Monitoring & Observability
+- API Design Best Practices (REST, gRPC, GraphQL)
 
-### **3. High-Level Design (HLD)**
+### **High-Level Design (HLD)**
 - Client-Server Model
 - Databases (SQL vs NoSQL, partitioning, replication)
 - Caching & Load Balancing
@@ -46,23 +54,6 @@ By the end, you will be able to:
 - Security (OAuth, JWT, HTTPS)
 - Case Studies: URL Shortener, Instagram, YouTube, WhatsApp, E-commerce
 
-### **4. Advanced Topics**
-- Event-Driven Architecture
-- Distributed Consensus (Paxos, Raft)
-- Database Internals (Indexes, Isolation)
-- Monitoring & Observability
-- API Design Best Practices (REST, gRPC, GraphQL)
-
-### **5. Interview Preparation**
-- Framework for solving system design problems
-- Trade-offs discussion (latency vs throughput, consistency vs availability)
-- Mock problems & pitfalls
-
-### **6. Capstone Projects**
-- Social Media Platform (mini-Facebook)
-- Video Streaming Service (mini-YouTube)
-- Scalable Chat App (mini-WhatsApp)
-- Distributed File Storage (mini-Google Drive)
 
 ---
 
